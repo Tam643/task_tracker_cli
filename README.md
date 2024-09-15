@@ -3,6 +3,8 @@
 
 A robust, efficient, and easy-to-use command-line tool for managing your tasks. The **Task Tracker CLI** allows you to add, list, complete, and delete tasks while saving all your data in a JSON file for persistence. This tool is perfect for keeping track of your daily to-dos and longer-term goals.
 
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 ## Features
 
 -   **Add tasks**: Easily create new tasks.
